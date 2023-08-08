@@ -1,8 +1,6 @@
-<h3 align="center"><a  href="https://github.com/godfathxx" target="_self"><img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif"></a> 
+<h3 align="center"><a  href="https://github.com/godfathxx" target="_self"><img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif"></a> 
  <h1 align="center">Hi 👋, I'm Mayank Dutt Pathak</h1> 
  <h3 align="center">Web Developer/Software Engineer</h3> 
-  
- <a href="https://www.google.com/logos/2010/pacman10-i.html" target="_blank"><img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a9/cb/3d/a9cb3d62f00833ca6f2b034f5c3669b6.gif"></a>
 
 
 
