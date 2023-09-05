@@ -5,10 +5,10 @@
 
 
 - 👋 Hi, I’m @Mayankpathak04
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Technology
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on Open source Projects
+- 📫 How to reach me mayankdutt.pathak@gmail.com
 
 <!---
 Mayankpathak04/Mayankpathak04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
